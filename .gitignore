@@ -1,0 +1,51 @@
+# Executables and Object files
+*.exe
+*.o
+*.obj
+*.out
+*.so
+*.dll
+*.dylib
+
+# Build folders
+bin/
+obj/
+build/
+Debug/
+Release/
+
+# Dependency directories (e.g., if you're using external libraries)
+libs/
+vendor/
+
+# Editor and IDE specific files
+*.swp
+*.swo
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Operating System generated files
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+ehthumbs.db
+Desktop.ini
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Configuration files (exclude if you need to share the configuration)
+*.conf
+*.cfg
+
+# Backup files
+*~
+*.bak
+*.tmp
+*.temp
+
+# Other files to exclude
+# Add here any other file types or specific files you don't want to track
